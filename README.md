@@ -62,6 +62,9 @@ Nossa aplicação inovadora utiliza um formulário de busca personalizado para a
 
 link : https://www.youtube.com/watch?v=kGQI-uOhQRM
 
+Para realização dos testes é necessario acessar o Azure e pegar o Hostname do banco de dados após isso utilize a senha que foi mostrada no video do CRUD e conecte-se ao banco
+no Serviço de Aplicativo no azure acesse o link e cole o seguinte caminho na frente do mesmo "/swagger-ui/index.html#/" após isso e com os serviços rodandos estára livre para realização dos testes!
+
 ![ LOGO DO PROJETO ](documentacao/UrBuyLogo.jpeg)
 
 
