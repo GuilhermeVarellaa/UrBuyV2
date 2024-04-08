@@ -52,7 +52,9 @@ tecnologia, tornando a jornada de compra não apenas melhor, mas também mais in
 No mundo cada vez mais complexo do mercado tecnológico, encontrar produtos adequados às necessidades específicas tornou-se um desafio significativo. Nesse contexto, apresentamos nossa proposta tecnológica revolucionária: um sistema de busca personalizado alimentado por um algoritmo inteligente. Esta aplicação visa transformar a experiência de compra de profissionais e entusiastas do setor de tecnologia, simplificando o processo de seleção e economizando tempo valioso.
 
 # Arquitetura da solução:
-![ PROTÓTIPO ](documentacao/Arquitetura.jpeg)
+
+![Imagem do WhatsApp de 2024-04-08 à(s) 11 40 47_cdad55d0](https://github.com/GuilhermeVarellaa/UrBuyV2/assets/111613789/e53f7351-a0b8-44fe-9d4b-a7aad29ad94a)
+
 
 # Principal funcionalidade do sistema: 
 
